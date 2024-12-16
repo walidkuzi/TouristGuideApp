@@ -20,4 +20,4 @@ A web application for tourists visiting Turkey. This app allows users to explore
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/username/TouristGuideApp.git
+   git clone https://github.com/walidkuzi/TouristGuideApp.git
