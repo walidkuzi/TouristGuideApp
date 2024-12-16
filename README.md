@@ -8,6 +8,15 @@ A web application for tourists visiting Turkey. This app allows users to explore
 - Frontend structure in `frontend/`.
 - Backend config in `backend/config`.
 
+## Useful tools
+- Framer Motion
+- React Router
+- Vite
+
+## Frameworks
+- FrontEnd: React.js
+- BackEnd: Laravel
+
 ## Installation
 1. Clone the repo:
    ```bash
