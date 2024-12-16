@@ -13,6 +13,15 @@ A web application for tourists visiting Turkey. This app allows users to explore
 - React Router
 - Vite
 
+## VS Code Extentions:
+- Prettier - Code Formatter
+- ESLint
+- PHP Intelephense
+- Laravel Blade Snippets
+- Live Server
+- GitLens
+- REST Client 
+
 ## Frameworks
 - FrontEnd: React.js
 - BackEnd: Laravel
@@ -21,3 +30,4 @@ A web application for tourists visiting Turkey. This app allows users to explore
 1. Clone the repo:
    ```bash
    git clone https://github.com/walidkuzi/TouristGuideApp.git
+
