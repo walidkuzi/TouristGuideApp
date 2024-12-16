@@ -9,7 +9,7 @@ A web application for tourists visiting Turkey. This app allows users to explore
 - Backend config in `backend/config`.
 
 ## Useful tools
-- Framer Motion
+- Framer Motion https://motion.dev/
 - React Router
 - Vite
 
