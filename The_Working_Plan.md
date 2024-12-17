@@ -164,7 +164,3 @@ Person C	Wishlist Page	Wishlist.jsx
 
 Person D	Profile Page	Profile.jsx
 
-Next Steps 🚀
-
-Team can pick their parts and work on individual branches.
-Let me know when you need help with specific components, API integration, or animations!
