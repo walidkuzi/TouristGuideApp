@@ -33,7 +33,9 @@ Add newsletter sign-up and navigation links.
 Example Division:
 
 Person A: Hero Section & Footer.
+
 Person B: Top Destinations & Featured Sections.
+
 Destinations Page (Destinations.jsx)
 
 Create a section to list all destinations in a grid layout.
@@ -60,7 +62,9 @@ Activities Page (Activities.jsx)
 
 Create a layout for “Must-Try Adventures” like Hot Air Ballooning, Paragliding, Trekking.
 Include hover animations with Framer Motion.
+
 Person A: Activity cards.
+
 Person B: Navigation links (like “See All”).
 
 Restaurants Page (Restaurants.jsx)
@@ -70,12 +74,16 @@ Reuse the Card component for meals and restaurants.
 Example Division:
 
 Person A: Must-Try Meals section.
+
 Person B: Top Restaurants & Breakfast Restaurants sections.
+
 Accommodations Page (Accommodations.jsx)
 
 Display Hotels, Resorts, and Bungalows in tabbed views.
 Each tab loads cards dynamically.
+
 Person A: Hotels.
+
 Person B: Resorts & Bungalows.
 
 Wishlist Page (Wishlist.jsx)
@@ -86,11 +94,14 @@ Profile Page (Profile.jsx)
 Create a user profile layout:
 Display user details with edit buttons.
 Add Delete My Account button.
+
 Person A: Profile layout.
+
 Person B: Edit form modal (optional for now).
 
 404 Page (NotFound.jsx)
 Design a simple and fun 404 Not Found Page with navigation back to Home.
+
 🛠️ Component-Level Tasks
 Navbar Component (Navbar.jsx)
 
@@ -134,15 +145,26 @@ Use Pull Requests (PR) to merge branches into the main branch.
 Review each other's code and resolve conflicts before merging.
 
 🎯 Tasks Division Example
+
 Teammate	Tasks	File(s)
+
 Person A	Home Page Hero & Footer	Home.jsx, Footer.jsx
+
 Person B	Top Destinations Section	Home.jsx
+
 Person C	Navbar Component	Navbar.jsx
+
 Person D	Destinations Page Filters	Destinations.jsx
+
 Person A	Attractions Page Cards	Attractions.jsx
+
 Person B	Activities Page Cards	Activities.jsx
+
 Person C	Wishlist Page	Wishlist.jsx
+
 Person D	Profile Page	Profile.jsx
+
 Next Steps 🚀
+
 Team can pick their parts and work on individual branches.
 Let me know when you need help with specific components, API integration, or animations!
