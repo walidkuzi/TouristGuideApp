@@ -4,9 +4,13 @@
 Here’s a clear breakdown of tasks for your front-end team using React.js, React Router, Vite, and Framer Motion. The tasks are split into pages, components, and key features.
 
 🏗️ Project Structure Setup (Already Completed)
+
 ✅ Vite and Laravel integration.
+
 ✅ React router setup.
+
 ✅ Project folder organization.
+
 📄 Page-Level Tasks (Team Split)
 Home Page (Home.jsx)
 
