@@ -26,6 +26,20 @@ A web application for tourists visiting Turkey. This app allows users to explore
 - FrontEnd: React.js
 - BackEnd: Laravel
 
+## Components Library
+- [Flyonui](https://flyonui.com/components/)
+- [flowbite](https://flowbite.com/blocks/)
+- [daisyui](https://daisyui.com/components/)
+- [tailwindui](https://tailwindui.com/components)
+- [preline](https://preline.co/examples.html)
+- [hyperui](https://www.hyperui.dev/)
+- [tailgrids](https://tailgrids.com/components)
+- [headlessui](https://headlessui.com/)
+- [tailblocks](https://tailblocks.cc/)
+- [merakiui](https://merakiui.com/components)
+- [headlessui](https://headlessui.com/)
+- [headlessui](https://headlessui.com/)
+
 ## Installation
 1. Clone the repo:
    ```bash
