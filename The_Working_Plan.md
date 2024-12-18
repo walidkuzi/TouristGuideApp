@@ -32,9 +32,9 @@ Footer:
 Add newsletter sign-up and navigation links.
 Example Division:
 
-Person A: Hero Section & Footer.
+  - Person A: Hero Section & Footer.
 
-Person B: Top Destinations & Featured Sections.
+  - Person B: Top Destinations & Featured Sections.
 
 Destinations Page (Destinations.jsx)
 
@@ -45,8 +45,8 @@ Add search functionality (input box).
 Link each card to the single destination page (not yet created).
 Example Division:
 
-Person A: Destination list with cards.
-Person B: Filters & search functionality.
+  - Person A: Destination list with cards.
+  - Person B: Filters & search functionality.
 Attractions Page (Attractions.jsx)
 
 Similar to the Destinations Page:
@@ -55,17 +55,17 @@ Add sections like Nature Attractions, Adventures, etc.
 Use the reusable Card component for consistency.
 Create navigation links to filtered views.
 
-Person A: Card grid.
-Person B: Filters.
+  - Person A: Card grid.
+  - Person B: Filters.
 
 Activities Page (Activities.jsx)
 
 Create a layout for “Must-Try Adventures” like Hot Air Ballooning, Paragliding, Trekking.
 Include hover animations with Framer Motion.
 
-Person A: Activity cards.
+  - Person A: Activity cards.
 
-Person B: Navigation links (like “See All”).
+  - Person B: Navigation links (like “See All”).
 
 Restaurants Page (Restaurants.jsx)
 
@@ -73,18 +73,18 @@ Add sections for Must-Try Meals, Top Restaurants, and Breakfast Restaurants.
 Reuse the Card component for meals and restaurants.
 Example Division:
 
-Person A: Must-Try Meals section.
+  - Person A: Must-Try Meals section.
 
-Person B: Top Restaurants & Breakfast Restaurants sections.
+  - Person B: Top Restaurants & Breakfast Restaurants sections.
 
 Accommodations Page (Accommodations.jsx)
 
 Display Hotels, Resorts, and Bungalows in tabbed views.
 Each tab loads cards dynamically.
 
-Person A: Hotels.
+  - Person A: Hotels.
 
-Person B: Resorts & Bungalows.
+  - Person B: Resorts & Bungalows.
 
 Wishlist Page (Wishlist.jsx)
 Fetch and display saved destinations, attractions, or activities.
@@ -95,9 +95,9 @@ Create a user profile layout:
 Display user details with edit buttons.
 Add Delete My Account button.
 
-Person A: Profile layout.
+  - Person A: Profile layout.
 
-Person B: Edit form modal (optional for now).
+  - Person B: Edit form modal (optional for now).
 
 404 Page (NotFound.jsx)
 Design a simple and fun 404 Not Found Page with navigation back to Home.
