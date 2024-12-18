@@ -6,6 +6,8 @@ A web application for tourists visiting Turkey. This app allows users to explore
 
 [View The Working Plan](The_Working_Plan.md)
 
+[The Working Plan in Details](2024-12-18.md)
+
 [2024-12-17 Work](2024-12-17_Work)
 
 
