@@ -148,19 +148,19 @@ Review each other's code and resolve conflicts before merging.
 
 Teammate	Tasks	File(s)
 
-Person A	Home Page Hero & Footer	Home.jsx, Footer.jsx
+  - Person A	Home Page Hero & Footer	Home.jsx, Footer.jsx
 
-Person B	Top Destinations Section	Home.jsx
+  - Person B	Top Destinations Section	Home.jsx
 
-Person C	Navbar Component	Navbar.jsx
+  - Person C	Navbar Component	Navbar.jsx
 
-Person D	Destinations Page Filters	Destinations.jsx
+  - Person D	Destinations Page Filters	Destinations.jsx
 
-Person A	Attractions Page Cards	Attractions.jsx
+  - Person A	Attractions Page Cards	Attractions.jsx
 
-Person B	Activities Page Cards	Activities.jsx
+  - Person B	Activities Page Cards	Activities.jsx
 
-Person C	Wishlist Page	Wishlist.jsx
+  - Person C	Wishlist Page	Wishlist.jsx
 
-Person D	Profile Page	Profile.jsx
+  - Person D	Profile Page	Profile.jsx
 
