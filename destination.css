@@ -7,6 +7,68 @@
     width: 1440px;
     height: 1024px;
 }
+
+.famous-sultan-ahmet-mosque-ist-icon {
+    position: absolute;
+    top: calc(50% - 241px);
+    left: calc(50% - 351px);
+    border-radius: 30px;
+    width: 702px;
+    height: 482px;
+    object-fit: cover;
+}
+.istanbul {
+    position: absolute;
+    top: 338px;
+    left: 56px;
+    letter-spacing: -0.01em;
+    display: inline-block;
+    width: 425px;
+    height: 83px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.property-1frame-14 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    border-radius: 30px;
+    width: 640px;
+    height: 440px;
+    overflow: hidden;
+}
+.famous-sultan-ahmet-mosque-ist-icon1 {
+    position: absolute;
+    top: calc(50% - 289px);
+    left: calc(50% - 421px);
+    border-radius: 30px;
+    width: 842px;
+    height: 578px;
+    object-fit: cover;
+}
+.property-1frame-15 {
+    position: absolute;
+    top: 20px;
+    left: 710px;
+    border-radius: 30px;
+    width: 640px;
+    height: 440px;
+    overflow: hidden;
+    color: #befc13;
+}
+.des1 {
+    width: 100%;
+    position: relative;
+    border-radius: 5px;
+    border: 1px dashed #9747ff;
+    box-sizing: border-box;
+    height: 480px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 60px;
+    color: #000;
+    font-family: "Inria Serif";
+}
+
 .molla-celebi-mosque-modern-bui-icon {
     position: absolute;
     top: 0px;
@@ -85,11 +147,58 @@
     width: 20px;
     height: 20px;
 }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
 .home {
     position: absolute;
     top: 0px;
     left: 0px;
-    letter-spacing: -0.01em;
+    letter-spacing: -0em;
 }
 .toolbar1 {
     width: 47px;
@@ -702,4 +811,74 @@
 body {
     margin: 0;
     line-height: normal;
+}
+
+/* Fade-In Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.fade-in {
+    opacity: 0; /* Initially hidden */
+    animation: fadeIn 1.2s ease-out forwards; /* Fade-in animation */
+}
+/* Styles for hover effect */
+.hover-img {
+    transition: transform 0.3s ease;
+}
+
+.hover-img:hover {
+    transform: scale(1.1);
+}
+
+/* Tooltip styles */
+.tooltip {
+    display: none;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    z-index: 1000;
+}
+
+.hover-img:hover + .tooltip {
+    display: block;
+}
+.interactive-container {
+    width: 640px;
+    height: 440px;
+    position: relative;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.hover-img {
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+    transition: transform 0.3s ease;
+}
+
+.image-text {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    color: black;
+    font-size: 30px;
+    font-family: Inria Serif;
+    font-weight: 700;
+    transition: color 0.3s ease;
 }
