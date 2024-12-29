@@ -1,0 +1,195 @@
+.adventures {
+  	color: #fff;
+}
+.must-try-adventures-container {
+  	flex: 1;
+  	position: relative;
+  	letter-spacing: 0.02em;
+  	line-height: 138%;
+}
+.must-try-adventures-wrapper {
+  	width: 625px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+}
+.frame-child {
+  	width: 60px;
+  	position: relative;
+  	height: 60px;
+}
+.group-parent {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 15px;
+}
+.frame-group {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-end;
+  	justify-content: flex-start;
+  	gap: 520px;
+}
+.group-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 45px;
+  	background-color: #000;
+}
+.group-item {
+  	position: absolute;
+  	height: 74.85%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 25.15%;
+  	left: 0%;
+  	border-radius: 45px 45px 0px 0px;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.rectangle-parent {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+}
+.paragliding-in-ldeniz {
+  	position: absolute;
+  	height: 8.99%;
+  	width: 86.75%;
+  	top: 77.53%;
+  	left: 5.25%;
+  	font-size: 30px;
+  	letter-spacing: -0.01em;
+  	display: inline-block;
+  	color: #fff;
+}
+.fethiye {
+  	position: absolute;
+  	height: 6.52%;
+  	width: 31.25%;
+  	top: 89.44%;
+  	left: 10%;
+  	letter-spacing: -0.01em;
+  	display: inline-block;
+}
+.paragliding {
+  	position: absolute;
+  	height: 6.52%;
+  	width: 35.75%;
+  	top: 89.44%;
+  	left: 47.25%;
+  	letter-spacing: -0.01em;
+  	display: inline-block;
+}
+.b {
+  	position: absolute;
+  	height: 1.35%;
+  	width: 2%;
+  	top: 82.25%;
+  	left: 6.25%;
+  	font-size: 50px;
+  	letter-spacing: -0.01em;
+  	display: inline-block;
+}
+.b1 {
+  	position: absolute;
+  	height: 1.35%;
+  	width: 2%;
+  	top: 82.25%;
+  	left: 43.25%;
+  	font-size: 50px;
+  	letter-spacing: -0.01em;
+  	display: inline-block;
+}
+.like-icon {
+  	position: absolute;
+  	height: 10.43%;
+  	width: 11.6%;
+  	top: 6.52%;
+  	right: 8.15%;
+  	bottom: 83.06%;
+  	left: 80.25%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.att30 {
+  	width: 400px;
+  	position: relative;
+  	height: 445px;
+  	flex-shrink: 0;
+}
+.rectangle-div {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	box-shadow: 0px 4px 4px rgba(72, 72, 72, 0.25);
+  	border-radius: 45px;
+  	background-color: #000;
+}
+.att30-parent {
+  	width: 1288px;
+  	height: 437px;
+  	overflow-x: auto;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 30px;
+}
+.frame-container {
+  	align-self: stretch;
+  	height: 437px;
+  	overflow-x: auto;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+}
+.frame-wrapper {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 10px;
+  	font-size: 20px;
+  	font-family: 'Inria Serif';
+}
+.frame-parent {
+  	width: 100%;
+  	position: relative;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 33px;
+  	text-align: left;
+  	font-size: 50px;
+  	color: #befc13;
+  	font-family: 'Inknut Antiqua';
+}
+
