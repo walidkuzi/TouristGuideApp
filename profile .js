@@ -9,10 +9,3 @@ hoverImage.addEventListener("mouseover", () => {
 hoverImage.addEventListener("mouseout", () => {
     tooltip.style.display = "none";
 });
-const deleteButton = document.getElementById("deleteButton");
-
-deleteButton.addEventListener("click", function () {
-    this.style.backgroundColor = "red";
-    this.style.color = "white"; // لضمان وضوح النص بعد التغيير
-    alert("Your account will be deleted!");
-});
