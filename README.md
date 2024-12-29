@@ -4,13 +4,6 @@ Tourist Guide Web Application for Turkey visitors
 # TouristGuideApp
 A web application for tourists visiting Turkey. This app allows users to explore attractions, book tours, and get travel information easily.
 
-[View The Working Plan](The_Working_Plan.md)
-
-[The Working Plan in Details - 2024-12-18](2024-12-18.md)
-
-[2024-12-17 Work](2024-12-17_Work)
-
-
 ## Features
 - Homepage with basic layout.
 - Frontend structure in `frontend/`.
@@ -46,10 +39,8 @@ A web application for tourists visiting Turkey. This app allows users to explore
 - [tailblocks](https://tailblocks.cc/)
 - [merakiui](https://merakiui.com/components)
 - [headlessui](https://headlessui.com/)
-- 
+- [headlessui](https://headlessui.com/)
 
-## Icons Library 
-- [HTML Icons](https://remixicon.com/)
 ## Installation
 1. Clone the repo:
    ```bash
