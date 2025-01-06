@@ -1,0 +1,961 @@
+.turkey {
+    margin: 0;
+}
+.turkey-tourists {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: 0.03em;
+    line-height: 115%;
+    display: inline-block;
+    width: 188.6px;
+    height: 95px;
+}
+.b {
+    position: absolute;
+    top: 17.28px;
+    left: 146.88px;
+    font-size: 57.6px;
+    line-height: 0%;
+    display: inline-block;
+    color: #befc13;
+    width: 28.8px;
+    height: 28.8px;
+}
+.turkey-tourists-parent {
+    position: absolute;
+    top: 73px;
+    left: 111px;
+    width: 188.6px;
+    height: 95px;
+    cursor: pointer;
+    font-size: 34.56px;
+    color: #fff;
+}
+.wish-list {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 175.5px);
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 351px;
+    height: 92px;
+    filter: blur(2px);
+}
+.wish-list1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 175.5px);
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 351px;
+    height: 92px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.wish-list-parent {
+    position: absolute;
+    top: 73px;
+    left: calc(50% - 176px);
+    width: 351px;
+    height: 92px;
+    text-align: center;
+    font-size: 50px;
+}
+.destinations {
+    position: relative;
+    letter-spacing: 0.02em;
+    line-height: 138%;
+}
+.destinations-wrapper {
+    position: absolute;
+    top: 33px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    cursor: pointer;
+}
+.attractions-wrapper {
+    position: absolute;
+    top: 76px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    cursor: pointer;
+}
+.activities-wrapper {
+    position: absolute;
+    top: 119px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    cursor: pointer;
+}
+.main-pages {
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    letter-spacing: 0.02em;
+    line-height: 138%;
+    display: inline-block;
+    color: #befc13;
+    width: 221px;
+    height: 33px;
+}
+.frame-parent {
+    position: absolute;
+    top: 0px;
+    left: 531px;
+    width: 231px;
+    height: 167px;
+}
+.wish-list-wrapper {
+    position: absolute;
+    top: 119px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.frame-group {
+    position: absolute;
+    top: 0px;
+    left: 812px;
+    width: 231px;
+    height: 167px;
+}
+.frame-container {
+    position: absolute;
+    top: 0px;
+    left: 1072px;
+    width: 231px;
+    height: 124px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 7.2px;
+    background-color: rgba(217, 217, 217, 0.15);
+    border: 1.2px solid #bbff00;
+    box-sizing: border-box;
+    width: 343.2px;
+    height: 41.4px;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 246px;
+    border-radius: 7.2px;
+    background-color: rgba(190, 252, 19, 0.8);
+    border: 1.2px solid #befc13;
+    box-sizing: border-box;
+    width: 97.2px;
+    height: 41.4px;
+}
+.subscribe {
+    position: absolute;
+    top: calc(50% - 7.7px);
+    left: calc(50% + 78px);
+    letter-spacing: 0.02em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+    height: 16.8px;
+}
+.write-your-email {
+    position: absolute;
+    top: calc(50% - 8.7px);
+    left: calc(50% - 159px);
+    letter-spacing: 0.02em;
+    line-height: 138%;
+    display: flex;
+    color: rgba(255, 255, 255, 0.4);
+    align-items: center;
+    justify-content: center;
+    width: 218.4px;
+    height: 16.8px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    width: 343.2px;
+    height: 41.4px;
+    text-align: center;
+    color: #000;
+}
+.the-latest-updates {
+    color: #fff;
+}
+.get-the-latest-container1 {
+    width: 100%;
+}
+.get-the-latest-container {
+    position: absolute;
+    top: 24px;
+    left: 5px;
+    font-size: 11px;
+    letter-spacing: 0.02em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    width: 342px;
+    height: 25px;
+}
+.newsletter-txt {
+    line-break: anywhere;
+    width: 100%;
+}
+.newsletter {
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    font-size: 15px;
+    letter-spacing: 0.02em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    width: 342px;
+    height: 25px;
+}
+.group-container {
+    position: absolute;
+    top: 106px;
+    left: 0px;
+    width: 347px;
+    height: 91.4px;
+    font-size: 12px;
+    color: #befc13;
+}
+.turkey-tourists1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: 0.03em;
+    line-height: 115%;
+    display: inline-block;
+    width: 131px;
+    height: 66px;
+}
+.b1 {
+    position: absolute;
+    top: 12px;
+    left: 102px;
+    font-size: 40px;
+    line-height: 0%;
+    display: inline-block;
+    color: #befc13;
+    width: 20px;
+    height: 20px;
+}
+.turkey-tourists-group {
+    position: absolute;
+    top: 20px;
+    left: 0px;
+    width: 131px;
+    height: 66px;
+    font-size: 24px;
+}
+.copyright-2024 {
+    position: absolute;
+    top: 209px;
+    left: 540px;
+    font-size: 11px;
+    letter-spacing: 0.02em;
+    line-height: 138%;
+    color: #befc13;
+    text-align: center;
+}
+.group-parent {
+    position: absolute;
+    top: 1414px;
+    left: 69px;
+    width: 1303px;
+    height: 224px;
+    font-size: 20px;
+    color: #fff;
+}
+.f1v4byj09dqb1-icon {
+    position: absolute;
+    top: 73px;
+    left: 1275px;
+    border-radius: 50%;
+    width: 102px;
+    height: 102px;
+    object-fit: cover;
+}
+.component-12-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: rgba(1, 20, 2, 0.6);
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.component-12 {
+    position: absolute;
+    top: 79px;
+    left: 0px;
+    width: 317px;
+    height: 80px;
+}
+.component-13 {
+    position: absolute;
+    top: 158px;
+    left: 0px;
+    width: 317px;
+    height: 80px;
+}
+.component-14 {
+    position: absolute;
+    top: 237px;
+    left: 0px;
+    width: 317px;
+    height: 80px;
+}
+.component-15 {
+    position: absolute;
+    top: 316px;
+    left: 0px;
+    width: 317px;
+    height: 80px;
+}
+.component-16 {
+    position: absolute;
+    top: 395px;
+    left: 0px;
+    width: 317px;
+    height: 80px;
+}
+.component-11-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgba(1, 20, 2, 0.6);
+    border: 1px solid #000;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.home1 {
+    position: absolute;
+    top: 12px;
+    left: 39px;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    width: 242px;
+    height: 60px;
+}
+.component-11-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 317px;
+    height: 80px;
+}
+.destinations1 {
+    position: absolute;
+    top: 90px;
+    left: 39px;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    width: 242px;
+    height: 60px;
+}
+.attractions1 {
+    position: absolute;
+    top: 169px;
+    left: 39px;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    width: 242px;
+    height: 60px;
+}
+.activities1 {
+    position: absolute;
+    top: 247px;
+    left: 39px;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    width: 242px;
+    height: 60px;
+}
+.restaurants1 {
+    position: absolute;
+    top: 327px;
+    left: 39px;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    width: 242px;
+    height: 60px;
+}
+.accommodations1 {
+    position: absolute;
+    top: 406px;
+    left: 39px;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    width: 242px;
+    height: 60px;
+}
+.component-13-icon {
+    position: absolute;
+    top: 474px;
+    left: 0px;
+    width: 317px;
+    height: 80px;
+}
+.profile1 {
+    position: absolute;
+    top: 484px;
+    left: 39px;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    width: 242px;
+    height: 60px;
+}
+.component-12-parent {
+    position: absolute;
+    top: 711px;
+    left: 111px;
+    width: 317px;
+    height: 554px;
+    font-size: 22px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.component-17-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(72, 72, 72, 0.25);
+    border-radius: 10px;
+    background-color: rgba(0, 32, 2, 0.6);
+}
+.component-17 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 317px;
+    height: 426px;
+}
+.f1v4byj09dqb1-icon1 {
+    position: absolute;
+    top: 39px;
+    left: 71px;
+    border-radius: 50%;
+    width: 174px;
+    height: 174px;
+    object-fit: cover;
+}
+.walid-kuzi {
+    position: absolute;
+    top: 276px;
+    left: 33px;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 254px;
+    height: 47px;
+}
+.walidgmailcom {
+    position: absolute;
+    top: 334px;
+    left: 14px;
+    font-size: 22px;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 292px;
+    height: 47px;
+}
+.component-17-parent {
+    position: absolute;
+    top: 257px;
+    left: 111px;
+    width: 317px;
+    height: 426px;
+    text-align: center;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.wishlist-child {
+    position: absolute;
+    top: 258px;
+    left: 475px;
+    box-shadow: 0px 4px 4px rgba(72, 72, 72, 0.25);
+    border-radius: 10px;
+    background-color: rgba(1, 20, 2, 0.6);
+    width: 798px;
+    height: 1001px;
+}
+.wish-list3 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 162.5px);
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    width: 325px;
+    height: 92px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.wish-list-container {
+    position: absolute;
+    top: 275px;
+    left: calc(50% - 188px);
+    width: 325px;
+    height: 92px;
+    font-size: 35px;
+}
+.component-23-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 5.6px;
+    border: 0.8px solid #befc13;
+    box-sizing: border-box;
+}
+.text {
+    position: absolute;
+    height: 64.41%;
+    width: 90.98%;
+    top: 19.05%;
+    left: 4.27%;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.component-23 {
+    position: absolute;
+    top: 0px;
+    left: 519px;
+    width: 183px;
+    height: 34px;
+}
+.text1 {
+    position: absolute;
+    height: 64.41%;
+    width: 90.96%;
+    top: 19.05%;
+    left: 4.27%;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.component-25 {
+    position: absolute;
+    top: 0px;
+    left: 95px;
+    width: 135px;
+    height: 34px;
+}
+.text2 {
+    position: absolute;
+    height: 64.41%;
+    width: 90.99%;
+    top: 19.05%;
+    left: 4.27%;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.component-26 {
+    position: absolute;
+    top: 0px;
+    left: 241px;
+    width: 121px;
+    height: 34px;
+}
+.component-27 {
+    position: absolute;
+    top: 0px;
+    left: 373px;
+    width: 135px;
+    height: 34px;
+}
+.component-24-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 5.6px;
+    background-color: rgba(190, 252, 19, 0.8);
+    border: 0.8px solid #befc13;
+    box-sizing: border-box;
+}
+.text4 {
+    position: absolute;
+    height: 64.41%;
+    width: 90.94%;
+    top: 19.05%;
+    left: 4.27%;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.component-24 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 85px;
+    height: 34px;
+    color: #000;
+}
+.component-23-parent {
+    position: absolute;
+    top: 383px;
+    left: 532px;
+    width: 702px;
+    height: 34px;
+    text-align: center;
+    font-size: 14.4px;
+}
+.group-inner {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 0px 2px 2px rgba(72, 72, 72, 0.25);
+    border-radius: 22.5px;
+    background-color: #000;
+}
+.frame-icon {
+    position: absolute;
+    height: 74.83%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 25.17%;
+    left: 0%;
+    border-radius: 22.5px 22.5px 0px 0px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.rectangle-group {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.paragliding-in-ldeniz {
+    position: absolute;
+    height: 8.99%;
+    width: 86.75%;
+    top: 77.53%;
+    left: 5.25%;
+    font-size: 15px;
+    letter-spacing: -0.01em;
+    display: inline-block;
+    color: #fff;
+}
+.fethiye {
+    position: absolute;
+    height: 6.52%;
+    width: 31.25%;
+    top: 89.44%;
+    left: 10%;
+    letter-spacing: -0.01em;
+    display: inline-block;
+}
+.paragliding {
+    position: absolute;
+    height: 6.52%;
+    width: 35.75%;
+    top: 89.44%;
+    left: 47.25%;
+    letter-spacing: -0.01em;
+    display: inline-block;
+}
+.b2 {
+    position: absolute;
+    height: 1.35%;
+    width: 2%;
+    top: 82.25%;
+    left: 6.25%;
+    font-size: 25px;
+    letter-spacing: -0.01em;
+    display: inline-block;
+}
+.b3 {
+    position: absolute;
+    height: 1.35%;
+    width: 2%;
+    top: 82.25%;
+    left: 43.25%;
+    font-size: 25px;
+    letter-spacing: -0.01em;
+    display: inline-block;
+}
+.like-icon {
+    position: absolute;
+    height: 10.43%;
+    width: 11.6%;
+    top: 6.52%;
+    right: 8.15%;
+    bottom: 83.06%;
+    left: 80.25%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.att30 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    height: 222.5px;
+}
+.att30-wrapper {
+    position: absolute;
+    top: 469px;
+    left: 545px;
+    width: 200px;
+    height: 222.5px;
+    font-family: 'Inria Serif';
+}
+.icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 22.5px 22.5px 0px 0px;
+    width: 200px;
+    height: 166.5px;
+    object-fit: cover;
+}
+.icon1 {
+    position: absolute;
+    top: -2px;
+    left: -14px;
+    width: 228px;
+    height: 171px;
+    object-fit: cover;
+}
+.kaputas-icon {
+    position: absolute;
+    top: 0px;
+    left: -37px;
+    width: 249.5px;
+    height: 166.5px;
+    object-fit: cover;
+}
+.parent {
+    position: absolute;
+    height: 74.83%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 25.17%;
+    left: 0%;
+    border-radius: 22.5px 22.5px 0px 0px;
+    overflow: hidden;
+}
+.att20 {
+    position: absolute;
+    top: 469px;
+    left: 785px;
+    width: 200px;
+    height: 222.5px;
+    font-family: 'Inria Serif';
+}
+.att31 {
+    position: absolute;
+    top: 467px;
+    left: 1025px;
+    width: 200px;
+    height: 222.5px;
+    font-family: 'Inria Serif';
+}
+.att36 {
+    position: absolute;
+    top: 739px;
+    left: 545px;
+    width: 200px;
+    height: 222.5px;
+    font-family: 'Inria Serif';
+}
+.ic-santai-family {
+    position: absolute;
+    height: 8.99%;
+    width: 88.75%;
+    top: 77.53%;
+    left: 5.25%;
+    letter-spacing: -0.01em;
+    display: inline-block;
+    color: #fff;
+}
+.antalya {
+    position: absolute;
+    height: 6.52%;
+    width: 39.5%;
+    top: 89.44%;
+    left: 10%;
+    font-size: 10px;
+    letter-spacing: -0.01em;
+    display: inline-block;
+}
+.bung30-child {
+    position: absolute;
+    height: 4.49%;
+    width: 5%;
+    top: 90.34%;
+    right: 30%;
+    bottom: 5.17%;
+    left: 65%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.bung30-item {
+    position: absolute;
+    height: 4.49%;
+    width: 5%;
+    top: 90.34%;
+    right: 24%;
+    bottom: 5.17%;
+    left: 71%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.bung30-inner {
+    position: absolute;
+    height: 4.49%;
+    width: 5%;
+    top: 90.34%;
+    right: 18%;
+    bottom: 5.17%;
+    left: 77%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.star-icon {
+    position: absolute;
+    height: 4.49%;
+    width: 5%;
+    top: 90.34%;
+    right: 12%;
+    bottom: 5.17%;
+    left: 83%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.bung30-child1 {
+    position: absolute;
+    height: 4.49%;
+    width: 5%;
+    top: 90.34%;
+    right: 6%;
+    bottom: 5.17%;
+    left: 89%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.bung30 {
+    position: absolute;
+    top: 739px;
+    left: 785px;
+    width: 200px;
+    height: 222.5px;
+    font-size: 15px;
+    font-family: 'Inria Serif';
+}
+.wishlist {
+    width: 100%;
+    position: relative;
+    background-color: #020202;
+    height: 1656px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 10px;
+    color: #befc13;
+    font-family: 'Inknut Antiqua';
+}
+img:hover {
+    transform: scale(1.05); 
+    transition: transform 0.3s ease-in-out;
+}
+
+
+
+
+
+
+
+
