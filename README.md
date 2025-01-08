@@ -38,7 +38,10 @@ A web application for tourists visiting Turkey. This app allows users to explore
 - [tailblocks](https://tailblocks.cc/)
 - [merakiui](https://merakiui.com/components)
 - [headlessui](https://headlessui.com/)
-- [headlessui](https://headlessui.com/)
+
+
+- [swiper](https://swiperjs.com/)
+
 
 ## Installation
 1. Clone the repo:
