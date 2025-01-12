@@ -1,0 +1,267 @@
+.login-box-child {
+    position: absolute;
+    top: calc(50% - 227px);
+    left: calc(50% - 279.5px);
+    box-shadow: 0px 2.799999952316284px 2.8px rgba(72, 72, 72, 0.25);
+    border-radius: 7px;
+    background-color: rgba(1, 20, 2, 0.6);
+    width: 559px;
+    height: 454px;
+}
+.login1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 113.75px);
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 227.5px;
+    height: 64.4px;
+    text-shadow: 0px 2.799999952316284px 2.8px rgba(0, 0, 0, 0.25);
+}
+.login-wrapper {
+    position: absolute;
+    top: 42px;
+    left: calc(50% - 114.3px);
+    width: 227.5px;
+    height: 64.4px;
+    text-align: center;
+    font-size: 35px;
+}
+.component-18-icon {
+    position: absolute;
+    top: 170.9px;
+    left: 46.2px;
+    width: 466.2px;
+    height: 19.2px;
+}
+.component-19-icon {
+    position: absolute;
+    top: 258.9px;
+    left: 46.2px;
+    width: 466.2px;
+    height: 19.2px;
+}
+
+.enter-your-email {
+    position: absolute;
+    top: 182.3px;
+    left: calc(50% - 219.3px);
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    color: rgba(255, 255, 255, 0.3);
+    white-space: pre-wrap;
+    align-items: center;
+    width: 440.3px;
+    height: 23.1px;
+    text-shadow: 0px 2.799999952316284px 2.8px rgba(0, 0, 0, 0.25);
+}
+.enter-password {
+    position: absolute;
+    top: 277.3px;
+    left: calc(50% - 221.4px);
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    color: rgba(255, 255, 255, 0.3);
+    white-space: pre-wrap;
+    align-items: center;
+    width: 442.4px;
+    height: 23.1px;
+    text-shadow: 0px 2.799999952316284px 2.8px rgba(0, 0, 0, 0.25);
+}
+.forgot-password {
+    position: absolute;
+    top: 310.9px;
+    left: calc(50% - 221.4px);
+    font-size: 8.4px;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    width: 442.4px;
+    height: 18.2px;
+    text-shadow: 0px 2.799999952316284px 2.8px rgba(0, 0, 0, 0.25);
+}
+.sign-up-now {
+    color: #befc13;
+}
+.dont-have-an-container1 {
+    width: 100%;
+}
+.dont-have-an-container {
+    position: absolute;
+    top: 385px;
+    left: calc(50% - 221.4px);
+    font-size: 8.4px;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    width: 442.4px;
+    height: 18.2px;
+    filter: drop-shadow(0px 2.799999952316284px 2.8px rgba(0, 0, 0, 0.25));
+    cursor: pointer;
+    color: #fff;
+}
+.component-20-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 7px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.delete-my-account {
+    position: absolute;
+    height: 67.86%;
+    top: 17.86%;
+    left: calc(50% - 161.8px);
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 322.7px;
+}
+.component-20 {
+    position: absolute;
+    top: 340.2px;
+    left: 46.2px;
+    width: 466.2px;
+    height: 39.2px;
+    text-align: center;
+    color: #fff;
+}
+.login-box {
+    position: absolute;
+    top: calc(50% - 245px);
+    left: calc(50% - 279px);
+    width: 559px;
+    height: 454px;
+}
+.login {
+    width: 100%;
+    position: relative;
+    background-color: #020202;
+    height: 900px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 14px;
+    color: #befc13;
+    font-family: "Inknut Antiqua";
+}
+/* Form Styling */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100px;
+}
+
+input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #00000082;
+    border-radius: 5px;
+    font-size: 14px;
+    width: 100%;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 39.2px;
+}
+
+input:focus {
+    outline: none;
+    border-color: #befc13;
+}
+
+/* Button Styling */
+button {
+    background-color: #befc13cc;
+    width: 322.7px;
+    position: relative;
+    font-size: 14px;
+    letter-spacing: 0.06em;
+    line-height: 138%;
+    display: flex;
+    font-family: "Inknut Antiqua";
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 26.6px;
+
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #93ba02c6;
+}
+
+/* Links */
+a {
+    color: #befc13;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.email-label {
+    font-size: 18px;
+    color: #ffffff;
+    letter-spacing: 0.06em;
+
+    align-self: flex-start;
+    margin-left: 49%;
+    margin-top: 140px;
+}
+.password-label {
+    font-size: 18px;
+    color: #fffafa;
+    letter-spacing: 0.06em;
+    margin-top: 45px;
+
+    align-self: flex-start;
+    margin-left: 47%;
+}
+
+/* Input Fields */
+input[type="email"],
+input[type="password"] {
+    width: 80%;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+/* Placeholder Styling */
+input::placeholder {
+    color: rgba(255, 255, 255, 0.3);
+    font-size: 14px;
+}
+
+/* Input Focus Effects */
+input:focus {
+    border-color: #befc13;
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 5px #befc13;
+}
